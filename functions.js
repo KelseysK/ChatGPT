@@ -43,3 +43,4 @@ function getOpenAIKey() {
 }
 
 export { generateId, getOpenAIKey, streamCompletion }
+npm start
